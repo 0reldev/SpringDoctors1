@@ -24,8 +24,4 @@ public class DoctorController {
     public String doc3() {
         return "Jodie Whittaker";
     }
-
-
-
-
 }
